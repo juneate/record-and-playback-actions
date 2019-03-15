@@ -1,0 +1,17 @@
+.mouse {
+  width: 1em;
+  height: 1em;
+  background-color: grey;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: all linear 0ms;
+  border-radius: 50%;
+  display: none;
+}
+.replay {
+  display: none;
+}
+.show {
+  display: block;
+}
